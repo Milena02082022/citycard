@@ -1,0 +1,209 @@
+/*----------PC-------------*/
+@media (max-width: 1080px){
+	.card {
+		max-width:220px;
+		min-height: 100%;
+	}
+	.card-spacing {
+		margin-bottom: 20px; 
+	}
+	.image-box{
+		max-width:220px;
+		height: 100%;
+	}
+	.card-img {
+		max-width:220px;
+		height: 100%;
+	}
+	.card-title {
+		font-size: 17px;
+	}
+	.card-text {
+		font-size: 16px;
+	}
+}
+/*----------Table-------------*/
+@media (max-width: 991.98px){
+	.header{
+		height: 65px;
+	}
+	.section-1{
+		padding-top: 35px;
+		padding-bottom: 65px;
+	}
+	.section-2{
+		padding-top: 35px;
+		padding-bottom: 65px;
+	}
+	.item-title{
+		font-size: 22px;
+	}
+	.item-text {
+		font-size: 19px;
+		line-height: 27px;
+	}
+	/* Картка Citycard (4 види) */
+	.card {
+		max-width:295px;
+		min-height: 100%;
+	}
+	.card-spacing {
+		margin-bottom: 25px; 
+	}
+	.image-box{
+		max-width:295px;
+		height: 100%;
+	}
+	.card-img {
+		max-width:295px;
+		height: 100%;
+	}
+	.card-title {
+		font-size: 19.5px;	
+	}
+	.card-text {
+		font-size: 17px;
+	}	
+}
+/*----------Mobile-------------*/
+@media (max-width: 767.98px){
+	.header{
+		height: 65px;
+	}
+	.section-1{
+		padding-top: 40px;
+		padding-bottom: 70px;
+	}
+	.section-2{
+		padding-top: 40px;
+		padding-bottom: 70px;
+	}
+	/* Логотип Citycard */
+	.navbar-brand{
+		color:#025595;
+		font-size: 24px;
+	}
+
+	.item-title{
+		font-size: 22px;
+	}
+	.item-text {
+		font-size: 18.5px;
+		line-height: 26px;
+	}
+	/* Картка Citycard (4 види) */
+	.card {
+		max-width:285px;
+		min-height: 100%;
+	}
+	.card-spacing {
+		margin-bottom: 25px; 
+	}
+	.image-box{
+		max-width:285px;
+		height: 100%;
+	}
+	.card-img {
+		max-width:285px;
+		height: 100%;
+	}
+	.card-title {
+		font-size: 19.5px;	
+	}
+	.card-text {
+		font-size: 17px;
+	}	
+}
+/*----------Mobile-small-------------*/
+@media (max-width: 479.98px){
+	.header{
+		height: 65px;
+	}
+	.section-1{
+		padding-top: 40px;
+		padding-bottom: 70px;
+	}
+	.section-2{
+		padding-top: 40px;
+		padding-bottom: 70px;
+	}
+	/* Логотип Citycard */
+	.navbar-brand{
+		font-size: 24px;
+	}
+	.title {
+		font-family: Montserrat;
+		font-size: 26px;
+		line-height: 18px;
+		padding-bottom: 20px;
+	}
+	.main-title{
+		font-size: 30px;
+		padding-bottom: 22px;
+	}
+	.item-title{
+		font-size: 21px;
+	}
+	.item-text {
+		font-size: 17.5px;
+		line-height: 24px;
+	}
+	/* Title footer */
+	.title-f{
+		font-size: 19px;
+	}
+	/* Article about how use citycard */
+	.article {
+		max-width: 275px; 
+		min-height: 100%; 
+		margin: 0 auto; 
+		text-align: center;
+		padding: 10px; 
+	}
+	.article-img {
+		width: 95px;
+	}
+	.article-title {
+		font-size: 21px;
+	}
+	.article-text {
+		font-size: 18px;
+	}
+	/* Картка Citycard (4 види) */
+	.card {
+		max-width:275px;
+		min-height: 100%;
+	}
+	.card-spacing {
+		margin-bottom: 30px; 
+	}
+	.image-box{
+		max-width:275px;
+		height: 100%;
+	}
+	.card-img {
+		max-width:275px;
+		height: 100%;
+	}
+	.card-body {
+		padding: 25px 10px 25px 10px;
+	}
+	.card-title {
+		font-size: 19px;
+	}
+	.card-text {
+		font-size: 16.5px;
+	}	
+	.form-link{
+		padding-top: 4px;
+		padding-bottom:4px;
+		text-decoration: none;
+	}
+	.form-card{
+		width: 300px;
+		border-radius: 25px;
+		background-color:#d6edff;
+		box-shadow:3px 2px 3px 2px gray;
+	}
+	
+}
