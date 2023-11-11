@@ -199,11 +199,11 @@
 		padding-bottom:4px;
 		text-decoration: none;
 	}
-	.form-card{
-		width: 300px;
-		border-radius: 25px;
-		background-color:#d6edff;
-		box-shadow:3px 2px 3px 2px gray;
+	.nav-tabs .tab-item {
+		width: 50%;
+		text-align: center;
 	}
-	
+	.nav-tabs .tab-link {
+		 padding: 10px;
+	}
 }

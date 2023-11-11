@@ -184,12 +184,26 @@ iframe{
 .form-link:hover{
 	color:#4891BF;
 }
-.form-card{
-	width: 400px;
-	border-radius: 25px;
-	background-color:#d6edff;
-	box-shadow:3px 2px 3px 2px gray;
+
+.tab-link{
+	text-decoration: none;
+	font-size: 17.5px;
+	font-family: Montserrat;
+	color:#025595;
+	align-items: center;
 }
+
+.tab-item .active{
+	padding: 12px;
+	border-radius: 10px;
+	background: #d6edff;
+}
+
+.tab-item{
+	padding: 12px;
+	background: transparent;
+}
+
 
 
  

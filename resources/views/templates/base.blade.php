@@ -9,8 +9,10 @@
 	<title>@yield('page.title', config('app.name'))</title>
 </head>
 <body>
+	
 	<div class="d-flex flex-column justify-content-between min-vh-100">
 		@include('includes.header')
+		@include('includes.alert')
 		<main class="flex-grow-1">
 			@yield('content')
 		</main>
